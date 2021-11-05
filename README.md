@@ -7,7 +7,6 @@ Esta foi uma simples aplicação de uma calculadora usando técnicas simples de 
 
 [Deploy](https://app-calculadora.vercel.app/)<br>
 
-
 <h2>📷 Preview</h2>
-<h3>Desktop:</h3>
+
 <img src="./cinnamon-20210408-9.gif">
